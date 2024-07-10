@@ -1,0 +1,21 @@
+style
+        
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white
+}
+h1 {
+    font-family: cursive;
+    font-size: 32px;
+    color: #30f121;
+    background-color: white
+}
+img {
+    width: 200px;
+}
+.custom-p {
+    font-weight: bold;
+} 
