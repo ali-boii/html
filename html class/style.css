@@ -1,4 +1,4 @@
-style
+
         
 body {
     display: flex;
@@ -19,3 +19,7 @@ img {
 .custom-p {
     font-weight: bold;
 } 
+.social-media img {
+    width: 30px;
+    padding-top: 5%;
+}
